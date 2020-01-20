@@ -1,6 +1,7 @@
 require 'bundler'
 require 'rake'
 require 'active_record'
+require 'colorize'
 # require 'tty/prompt'
 Bundler.require
 

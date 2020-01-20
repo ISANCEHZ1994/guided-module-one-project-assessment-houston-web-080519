@@ -8,6 +8,9 @@ gem "pry"
 gem "require_all"
 gem "faker"
 gem 'rake'
+# gem 'rake-12.3.2'
 gem 'tty-prompt'
+gem 'artii'
+gem 'colorize'
 
 # rake db:create_migration NAME=<name>
